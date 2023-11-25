@@ -1,6 +1,5 @@
 <div align="center">
-    <h1>Welcome to Baber-Jan's GitHub!</h1>
-    <p>This is the main hub for my coding projects, ideas, and collaborations. Feel free to explore!</p>
+    <h1>Welcome to my GitHub!</h1>
 </div>
 
 <div align="center">
